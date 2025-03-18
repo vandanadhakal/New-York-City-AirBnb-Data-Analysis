@@ -18,6 +18,7 @@ The following anaysis is to determine the most attractive vacation rental in Man
   ➔	Recommendations: Suggested investing in 1-bedroom properties in the Lower East Side, Hells Kitchen and Harlem neighborhood.
 
 The Excel File can be found here: [NYC AirBnb Rental Data](https://docs.google.com/spreadsheets/d/1KHray3mL1PWpxHVrHHHsYnM-rqO_PNyQ/edit?gid=324620310#gid=324620310)
+(Note some excel features were removed unintentionally when uploading file in Google Drive)
 
 The top 10 Neighborhoods in Manhattan: 
 
