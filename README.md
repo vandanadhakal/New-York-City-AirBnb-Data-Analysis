@@ -1,14 +1,14 @@
 # New York City AirBnb Data Analysis
 
-New York City AirBnb Data Analysis using Excel
+New York City AirBnb Data Analysis using Microsoft Excel
 
-## Objective: Providing guidance to potential host/invester on the property types to invest in New York City Neighborhood
+## Objective: Providing Guidance to Potential Host/Invester on the Property Types to Invest in New York City Neighborhood
 
 ## Executive Summary
 The following anaysis is to determine the most attractive vacation rental in Manhattan, so that it provides a guidance on which property types to invest in:
-1. Analysis show that Lower East Side, Hells Kitchen and Harlem are the top 3 popular rental neighborhoods.
-2. 1 bedroom type properties are more popular than any other types.
-3. The top listing generates  $29,940.00 in a single month.
+1. Analysis show that `Lower East Side`, `Hells Kitchen` and `Harlem` are the top 3 popular rental neighborhoods.
+2. `1 bedroom` type properties are more popular than any other types.
+3. The top listing generates  `$29,940.00` in a single month.
 
 ### Summary
   ➔	Methods/Techniques: Cleaned data, created new columns for new data calculation, used formulas, VLOOKUP, pivot tables, pie charts and graphs.
@@ -17,10 +17,10 @@ The following anaysis is to determine the most attractive vacation rental in Man
 
   ➔	Recommendations: Suggested investing in 1-bedroom properties in the Lower East Side, Hells Kitchen and Harlem neighborhood.
 
-The Excel File can be found here: [NYC AirBnb Rental Data Analysis](https://docs.google.com/spreadsheets/d/1KHray3mL1PWpxHVrHHHsYnM-rqO_PNyQ/edit?gid=324620310#gid=324620310)
+The Excel File can be found here: [`NYC AirBnb Rental Data Analysis`](https://docs.google.com/spreadsheets/d/1KHray3mL1PWpxHVrHHHsYnM-rqO_PNyQ/edit?gid=324620310#gid=324620310)
 (Note some excel features were removed unintentionally when uploading file in Google Drive)
 
-Raw data file can be found here: [NYC AirBnb Rental Data](https://docs.google.com/spreadsheets/d/1wwAMY7OQLe7u36yPVbKu9dSmWuIwNMHb/edit?usp=share_link&ouid=109309021359791811778&rtpof=true&sd=true)
+Raw data file can be found here: [`NYC AirBnb Rental Data`](https://docs.google.com/spreadsheets/d/1wwAMY7OQLe7u36yPVbKu9dSmWuIwNMHb/edit?usp=share_link&ouid=109309021359791811778&rtpof=true&sd=true)
 
 The top 10 Neighborhoods in Manhattan: 
 
