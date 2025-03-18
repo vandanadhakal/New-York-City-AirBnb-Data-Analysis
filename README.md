@@ -10,7 +10,7 @@ New York City AirBnb Data Analysis using Excel
 
   ➔	Recommendations: Suggested investing in 1-bedroom properties in the Lower East Side, Hells Kitchen and Harlem neighborhood.
 
-The top 10 Neighborhood in Manhattan: 
+The top 10 Neighborhood in Manhattan: (https://github.com/vandanadhakal/New-York-City-AirBnb-Data-Analysis/blob/main/Top%2010%20Neighborhood.png)
 
 ## Executive Summary
 The following anaysis is to determine the most attractive vacation rental in Manhattan, so that it provides a guidance on which property types to invest in:
