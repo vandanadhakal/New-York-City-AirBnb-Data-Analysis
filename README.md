@@ -5,7 +5,7 @@ New York City AirBnb Data Analysis using Microsoft Excel
 ## Objective: Providing Guidance to Potential Host/Invester on the Property Types to Invest in New York City Neighborhood
 
 ## Executive Summary
-The following anaysis is to determine the most attractive vacation rental in Manhattan, so that it provides a guidance on which property types to invest in:
+The following anaysis is to determine the most attractive vacation rental in Manhattan, so it provides a guidance on which property types to invest in:
 1. Analysis show that `Lower East Side`, `Hells Kitchen` and `Harlem` are the top 3 popular rental neighborhoods.
 2. `1 bedroom` type properties are more popular than any other types.
 3. The top listing generates  `$29,940.00` in a single month.
