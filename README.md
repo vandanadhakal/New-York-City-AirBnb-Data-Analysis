@@ -3,7 +3,7 @@
 New York City AirBnb Data Analysis using Microsoft Excel
 
 ## Objective
-Providing Guidance to Potential Host/Invester on the Property Types to Invest in New York City Neighborhood
+To Provide Guidance to Potential Host/Invester on the Property Types to Invest in New York City Neighborhood
 
 ## Executive Summary
 The following analysis is to determine the most attractive vacation rental in Manhattan, so it provides a guidance on which property types to invest in:
